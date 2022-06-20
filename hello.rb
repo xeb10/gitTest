@@ -1,4 +1,4 @@
-#oops didnt want this commit
+#Hello world
 name = ARGV.first || "World"
 
 puts "Hello, #{name}!"
